@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently pursuing my masters in Computer Science.
-- 🌱 I’m currently trying to work on my data structures and learn Android in Java.
+- 🌱 I’m currently working on improving data structures/algorithms and learn Android in Java.
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
