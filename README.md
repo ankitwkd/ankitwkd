@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently pursuing my masters in Computer Science.
-- 🌱 I’m active on LeetCode problem solving. Find me at https://leetcode.com/wkdankit/
+- 🔭 I’m currently working as a Sr. SDE at Tesla, Inc.
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
